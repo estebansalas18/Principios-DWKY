@@ -1,6 +1,6 @@
 package DRY;
 
-public class patron {
+public class principio {
     private boolean logeado = true;
     private String rol = "admin";
 

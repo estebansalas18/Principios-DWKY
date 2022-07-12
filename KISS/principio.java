@@ -1,6 +1,6 @@
 package KISS;
 
-public class patron {
+public class principio {
     private String abecedario = "abcdefghijklmnopqrstuvwxyz";
 
     // Metodo para obtener una letra del abecedario segun su posicion

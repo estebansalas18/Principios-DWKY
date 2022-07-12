@@ -1,6 +1,6 @@
 package KISS;
 
-public class antipatron {
+public class antiprincipio {
     
     // Metodo para obtener una letra del abecedario segun su posicion
     public char abecedario(int i){

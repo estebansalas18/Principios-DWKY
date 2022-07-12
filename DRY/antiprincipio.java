@@ -1,6 +1,6 @@
 package DRY;
 
-public class antipatron {
+public class antiprincipio {
     private boolean logeado = true;
     private String rol = "admin";
 
